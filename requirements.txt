@@ -13,3 +13,4 @@ langchain[google-genai]>=1.3,<2.0
 langchain[groq]>=1.3,<2.0
 ipykernel
 notebook
+sentence transformers
